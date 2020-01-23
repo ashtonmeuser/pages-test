@@ -4,6 +4,8 @@ search_enabled: false
 permalink: /:title
 
 # Build settings
-source: pages
+source: src
+include: [src]
+exclude: [README.md]
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs
