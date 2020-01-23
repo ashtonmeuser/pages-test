@@ -1,7 +1,9 @@
 # Site settings
 title: Your awesome title
 search_enabled: false
-# permalink: /:title
+baseurl: /pages-test
+url: https://ashtonmeuser.github.io
+permalink: /:title
 
 # Build settings
 exclude: [README.md]
