@@ -1,0 +1,8 @@
+# Site settings
+title: Your awesome title
+search_enabled: false
+
+# Build settings
+exclude: [README.md]
+markdown: kramdown
+remote_theme: pmarsceill/just-the-docs
