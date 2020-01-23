@@ -1,8 +1,7 @@
 ---
-layout: default
 title: Child
 parent: Parent
-nav_order: 2
+nav_order: 1 # Within group
 ---
 
 Child page

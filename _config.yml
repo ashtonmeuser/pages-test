@@ -1,8 +1,9 @@
 # Site settings
 title: Your awesome title
 search_enabled: false
+permalink: /:title
 
 # Build settings
-exclude: [README.md]
+source: pages
 markdown: kramdown
 remote_theme: pmarsceill/just-the-docs

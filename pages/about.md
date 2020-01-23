@@ -1,8 +1,6 @@
 ---
-layout: default
 title: About
-nav_order: 1
-has_children: false
+nav_order: 2
 ---
 
 About page
