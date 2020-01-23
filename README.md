@@ -31,4 +31,12 @@ parent: Parent
 nav_order: 2
 ```
 
+Commit changes and push.
+
+```
+git add -A
+git commit -m "Your commit message here"
+git push
+```
+
 That's it, you're done!
